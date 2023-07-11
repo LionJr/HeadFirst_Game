@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dotnet\\C#\\HeadFirst\\HeadFirst.csproj": {}
+    "C:\\dotnet\\C#\\HeadFirst\\HeadFirst_Game\\HeadFirst.csproj": {}
   },
   "projects": {
-    "C:\\dotnet\\C#\\HeadFirst\\HeadFirst.csproj": {
+    "C:\\dotnet\\C#\\HeadFirst\\HeadFirst_Game\\HeadFirst.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dotnet\\C#\\HeadFirst\\HeadFirst.csproj",
+        "projectUniqueName": "C:\\dotnet\\C#\\HeadFirst\\HeadFirst_Game\\HeadFirst.csproj",
         "projectName": "HeadFirst",
-        "projectPath": "C:\\dotnet\\C#\\HeadFirst\\HeadFirst.csproj",
+        "projectPath": "C:\\dotnet\\C#\\HeadFirst\\HeadFirst_Game\\HeadFirst.csproj",
         "packagesPath": "C:\\Users\\Arslan\\.nuget\\packages\\",
-        "outputPath": "C:\\dotnet\\C#\\HeadFirst\\obj\\",
+        "outputPath": "C:\\dotnet\\C#\\HeadFirst\\HeadFirst_Game\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Arslan\\AppData\\Roaming\\NuGet\\NuGet.Config"

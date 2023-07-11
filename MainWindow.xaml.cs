@@ -23,6 +23,24 @@ namespace HeadFirst
         public MainWindow()
         {
             InitializeComponent();
+
+            SetUpGame();
         }
+
+    private void SetUpGame()
+    {
+      List<string> emojiList = new List<string>()
+      {
+        ":)", ":)",";)",";)",":-)",":-)",";-)",";-)",":--)",":--)",";--)",";--)",":(",":(",";(",";(" 
+      };
+      Random random = new Random();
+      foreach (TextBlock textBlock in mainGrid.Children.OfType<TextBlock>())
+      {
+        int index = random.Next(emojiList.Count);
+        string nextEmoji = emojiList[index];
+        textBlock.Text = nextEmoji;
+        emojiList.RemoveAt(index);
+      }
     }
+  }
 }

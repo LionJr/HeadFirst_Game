@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+odMuLGluRlzIagkk76UaRIBWVQnfbql/SV6BUsZmgsDer/+LcqynHJjU2nbCLmJFV0sQbzbYaljeh0pnBcrgw==",
+  "dgSpecHash": "TLFysKZLY0Lj42KQ3ReZG3+i08H0t10nHn/3L3mMVPhyutYpm3RgRlmv6pcuegvqS+FieueHFPWT/K5Q95f7Xw==",
   "success": true,
-  "projectFilePath": "C:\\dotnet\\C#\\HeadFirst\\HeadFirst.csproj",
+  "projectFilePath": "C:\\dotnet\\C#\\HeadFirst\\HeadFirst_Game\\HeadFirst.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
